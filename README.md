@@ -107,7 +107,5 @@ Multi-frame human pose estimation in complicated situations is challenging. Alth
 
 ## Installation & Quick Start
 
-**Check** [docs/installation.md](docs/Installation.md) for instructions on how to build DCPose from source.
+**Check** [docs/installation.md](docs/Installation.md) for instructions on how to build the project from source.
 
-# Citation
-```
